@@ -46,7 +46,8 @@
   },
   "dependencies": {
     "@jupyterlab/application": "^3.1.0",
-    "@jupyterlab/apputils": "^3.2.9"
+    "@jupyterlab/apputils": "^3.2.9",
+    "@lumino/widgets": "^1.31.1"
   },
   "devDependencies": {
     "@jupyterlab/builder": "^3.1.0",
